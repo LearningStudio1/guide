@@ -182,3 +182,4 @@ message.awaitReactions(filter, { max: 4, time: 60000, errors: ['time'] })
 		console.log(`After a minute, only ${collected.size} out of 4 reacted.`);
 	});
 ```
+```This is fun
